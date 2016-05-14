@@ -1,3 +1,3 @@
-# doc
-Establishing Club and Club Objective references. 
+# Computer Olypmic SKN
+## We code, learn, have fun 
 
